@@ -9,7 +9,7 @@ edition = "2018"
 [dependencies]
 itertools = "0.9.0"
 nom = "6.0.1"
-nom_locate = "3.0.0"
+nom_locate = "3.0.2"
 rayon = "1.5.0"
 nom-supreme = "0.1.2"
 trees = "0.3.0"

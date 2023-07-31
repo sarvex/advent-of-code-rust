@@ -10,7 +10,7 @@ edition = "2021"
 bitvec = "0.22.3"
 dhat = { version = "0.2.4", optional = true }
 itertools = "0.10.1"
-ndarray = "0.15.4"
+ndarray = "0.15.6"
 nom = "7.1.0"
 
 [profile.release]

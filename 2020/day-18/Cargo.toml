@@ -17,7 +17,7 @@ nom-recursive = "0.5.0"
 santa18 = { path = "../santa-replace-18" }
 
 [dev-dependencies]
-criterion = "0.3.3"
+criterion = "0.5.1"
 
 [[bin]]
 name = "part1"

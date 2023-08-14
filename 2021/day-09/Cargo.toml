@@ -18,7 +18,7 @@ inherits = "release"
 debug = 1
 
 [dev-dependencies]
-criterion = "0.3"
+criterion = "0.5"
 
 [[bench]]
 name = "my_benchmark"

@@ -7,7 +7,7 @@ edition = "2021"
 
 
 [dependencies]
-dhat = { version = "0.2.4", optional = true }
+dhat = { version = "0.3.2", optional = true }
 itertools = "0.10.1"
 nom = "7.1.0"
 

@@ -10,7 +10,7 @@ edition = "2021"
 bitvec = "0.22.3"
 dhat = { version = "0.3.2", optional = true }
 hex = "0.4.3"
-itertools = "0.10.3"
+itertools = "0.11.0"
 ndarray = "0.15.6"
 nom = "7.1.0"
 nom-supreme = "0.8.0"

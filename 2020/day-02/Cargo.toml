@@ -11,7 +11,7 @@ itertools = "0.11.0"
 criterion = "0.5.1"
 regex = "1.9.3"
 lazy_static = "1.4.0"
-nom = "6.2.2"
+nom = "7.1.3"
 
 [[bin]]
 name = "2020day2part1"

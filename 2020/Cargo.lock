@@ -245,7 +245,7 @@ name = "day_01"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
 ]
 
 [[package]]
@@ -253,7 +253,7 @@ name = "day_02"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "lazy_static",
  "nom",
  "regex",
@@ -264,7 +264,7 @@ name = "day_03"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
 ]
 
@@ -273,7 +273,7 @@ name = "day_04"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
 ]
@@ -284,7 +284,7 @@ version = "0.1.0"
 dependencies = [
  "bitvec",
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
 ]
@@ -295,7 +295,7 @@ version = "0.1.0"
 dependencies = [
  "bitvec",
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
 ]
@@ -307,7 +307,7 @@ dependencies = [
  "bitvec",
  "criterion",
  "daggy",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
 ]
@@ -319,7 +319,7 @@ dependencies = [
  "bitvec",
  "criterion",
  "daggy",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -330,7 +330,7 @@ name = "day_09"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -341,7 +341,7 @@ name = "day_11"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -352,7 +352,7 @@ name = "day_12"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -363,7 +363,7 @@ name = "day_14"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -374,7 +374,7 @@ name = "day_15"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom_locate",
  "rayon",
@@ -385,7 +385,7 @@ name = "day_16"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom-supreme",
  "nom_locate",
@@ -397,7 +397,7 @@ name = "day_17"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom-supreme",
  "nom_locate",
@@ -409,7 +409,7 @@ name = "day_18"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom-recursive",
  "nom-supreme",
@@ -424,7 +424,7 @@ name = "day_19"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom-supreme",
  "nom_locate",
@@ -436,7 +436,7 @@ name = "day_23"
 version = "0.1.0"
 dependencies = [
  "criterion",
- "itertools 0.11.0",
+ "itertools 0.12.0",
  "nom",
  "nom-supreme",
  "nom_locate",
@@ -538,9 +538,9 @@ dependencies = [
 
 [[package]]
 name = "itertools"
-version = "0.11.0"
+version = "0.12.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b1c173a5686ce8bfa551b3563d0c2170bf24ca44da99c7ca4bfdab5418c3fe57"
+checksum = "25db6b064527c5d482d0423354fcd07a89a2dfe07b67892e62411946db7f07b0"
 dependencies = [
  "either",
 ]
@@ -832,7 +832,7 @@ dependencies = [
 name = "santa18"
 version = "0.1.0"
 dependencies = [
- "itertools 0.11.0",
+ "itertools 0.12.0",
 ]
 
 [[package]]

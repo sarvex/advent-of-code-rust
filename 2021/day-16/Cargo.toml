@@ -8,7 +8,7 @@ edition = "2021"
 
 [dependencies]
 bitvec = "1.0.1"
-dhat = { version = "0.3.2", optional = true }
+dhat = { version = "0.3.3", optional = true }
 hex = "0.4.3"
 itertools = "0.12.0"
 ndarray = "0.15.6"

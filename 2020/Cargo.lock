@@ -626,9 +626,9 @@ dependencies = [
 
 [[package]]
 name = "nom-recursive"
-version = "0.5.0"
+version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "63607196a460ae848e09fa10b62f20fda85328328b514b2dd97a2d700299ec63"
+checksum = "38dde6bfc697f9a5f19dd3afcc7e3d60367c0a00fe8f29a5aebb6fc9ca9aeb7a"
 dependencies = [
  "nom-recursive-macros",
  "nom_locate",
@@ -636,9 +636,9 @@ dependencies = [
 
 [[package]]
 name = "nom-recursive-macros"
-version = "0.5.0"
+version = "0.5.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c8621cd2fdc6201fb09c94264cef707fd20c392eaf5f1caaa26b01b8d9851888"
+checksum = "e16984d78cb05a960e79cc03219e8fc2da932666d5cef7cbd7c55c9a1a4ef3ce"
 dependencies = [
  "quote",
  "syn 1.0.53",

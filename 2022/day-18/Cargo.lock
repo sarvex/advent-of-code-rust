@@ -1616,7 +1616,7 @@ name = "day-18"
 version = "0.1.0"
 dependencies = [
  "bevy",
- "glam 0.28.0",
+ "glam 0.30.0",
  "itertools",
  "nom",
  "rayon",
@@ -1955,9 +1955,9 @@ dependencies = [
 
 [[package]]
 name = "glam"
-version = "0.28.0"
+version = "0.30.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "779ae4bf7e8421cf91c0b3b64e7e8b40b862fba4d393f59150042de7c4965a94"
+checksum = "17fcdf9683c406c2fc4d124afd29c0d595e22210d633cbdb8695ba9935ab1dc6"
 
 [[package]]
 name = "glob"

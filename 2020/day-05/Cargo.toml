@@ -13,7 +13,7 @@ nom_locate = "5.0.0"
 bitvec = "1.0.1"
 
 [dev-dependencies]
-criterion = "0.5.1"
+criterion = "0.7.0"
 
 [[bin]]
 name = "2020day5part1"

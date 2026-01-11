@@ -471,9 +471,9 @@ dependencies = [
 
 [[package]]
 name = "ndarray"
-version = "0.17.0"
+version = "0.17.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "132ea8ac1939bcf6c6e291dbf904dd19b998e2cfa7b9ac3bc7ab2e8577207a3f"
+checksum = "520080814a7a6b4a6e9070823bb24b4531daac8c4627e08ba5de8c5ef2f2752d"
 dependencies = [
  "matrixmultiply",
  "num-complex",

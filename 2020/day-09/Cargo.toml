@@ -13,7 +13,7 @@ nom_locate = "5.0.0"
 rayon = "1.8.0"
 
 [dev-dependencies]
-criterion = "0.7.0"
+criterion = "0.8.0"
 
 [[bin]]
 name = "2020day9part1"
